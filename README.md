@@ -183,6 +183,10 @@ Amount
 Status
 Category
 ```
+## Dashboard Preview
+
+![Dashboard Screenshot](./<img width="1890" height="952" alt="Screenshot 2026-10-04 121922" src="https://github.com/user-attachments/assets/b8dc2dce-3515-4288-9831-dcb6737066c5" />
+)
 
 ## 🔮 Future Improvements
 
